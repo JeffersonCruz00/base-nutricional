@@ -1,0 +1,10 @@
+# ignora os arquivos de projeto
+API.BaseNutricional/bin/
+API.BaseNutricional/.config/
+API.BaseNutricional/obj/
+API.BaseNutricional/Properties/
+
+# ignora os arquivos da pasta vs
+.vs/
+# ignora os arquivos da pasta git
+.git/
